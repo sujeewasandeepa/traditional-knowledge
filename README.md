@@ -29,3 +29,4 @@ Simplify we can define scientific method as the process of objectively establish
 The goal of this is to discover cause and effect relationships by asking questions, carefully gathering and examining the evidence, and seeing if all the available information can be combined into a logical answer.
 ![image](https://github.com/sujeewasandeepa/traditional-knowledge/assets/69723438/7b03d379-1315-4f66-8a47-fe9476afad36)
 
+_L.A.S.S Kularathna_
