@@ -8,7 +8,11 @@ Some examples,
 3. Don't go alone in deserted roads in dusk.
 
 ## What I will do
-I will create a web application to store this knowledge and let users search them, improve them and add new items. 
+I will create a web application to store this knowledge and let users search them, improve them and add new items.
+### Technical Stack
+1. ReactJS - front end
+2. ExpressJS - Back end -> [Backend repo | https://github.com/sujeewasandeepa/traditional-knowledge-be]
+3. PostgreSQL - Database
 
 ## How you can help
 This is an opensource project. You can fork this repository and help me with development work. 
