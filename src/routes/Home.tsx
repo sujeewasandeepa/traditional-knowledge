@@ -1,10 +1,11 @@
 import NavBar from "../components/NavBar"
+import SearchBox from "../components/SearchBox"
 
 export default function Home () {
   return (
   <>
       <NavBar/>
-      <h1 className="title is-5">hello from home!</h1>
+      <SearchBox/>
   </>
   )
 }
