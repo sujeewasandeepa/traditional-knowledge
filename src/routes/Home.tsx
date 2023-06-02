@@ -1,7 +1,10 @@
+import NavBar from "../components/NavBar"
+
 export default function Home () {
   return (
   <>
-      <h1>hello from home!</h1>
+      <NavBar/>
+      <h1 className="title is-5">hello from home!</h1>
   </>
   )
 }
