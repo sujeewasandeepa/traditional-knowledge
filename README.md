@@ -10,8 +10,8 @@ Some examples,
 ## What I will do
 I will create a web application to store this knowledge and let users search them, improve them and add new items.
 ### Technical Stack
-1. ReactJS - front end -> This repo
-2. ExpressJS - Back end -> [Backend repo](https://github.com/sujeewasandeepa/traditional-knowledge-be)
+1. ReactJS (with typescript) - front end -> This repo
+2. ExpressJS (with typescript) - Back end -> [Backend repo](https://github.com/sujeewasandeepa/traditional-knowledge-be)
 3. PostgreSQL - Database
 ![use case diagram](https://github.com/sujeewasandeepa/traditional-knowledge/assets/69723438/683cb866-12f1-4fa9-a3a8-e7e1b55a92d8)
 ![er diagram](https://github.com/sujeewasandeepa/traditional-knowledge/assets/69723438/656db85d-1804-428c-9a77-741ab2809ece)
