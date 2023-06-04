@@ -1,1 +1,7 @@
+#links {
+  color: hsl(0, 0%, 29%);
+}
 
+#links:hover {
+  color: hsl(217, 71%, 53%);
+}
