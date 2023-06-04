@@ -3,5 +3,6 @@
 }
 
 #links:hover {
-  color: hsl(217, 71%, 53%);
+  color: black;
+  text-decoration: underline;
 }
