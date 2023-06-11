@@ -6,36 +6,28 @@ export default function NavBar () {
   <>
     <nav className="navbar" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
-        <a className="title is-3 navbar-item" href="/">
-          <Link to="/">
-            <span id="links">Traditional Knowledge</span>
-          </Link>
-        </a>
+      <Link to="/" className='title is-3 navbar-item'>
+        <span id="links">Traditional Knowledge</span>
+      </Link>
       </div>
       
       <div className="navbar-menu">
         <div className="navbar-start">
-          <a className="navbar-item" href="#">
-            <Link to="/about">
-              <span id="links"> /about </span>
-            </Link>
-          </a>
+        <Link to="/about" className='navbar-item'>
+          <span id="links"> /about </span>
+        </Link>
           <a className="navbar-item" id="links" href="https://github.com/sujeewasandeepa/traditional-knowledge">
             /source-code
           </a>
         </div>
 
         <div className="navbar-end mr-2">
-          <a className="navbar-item" id="links" href="#">
-            <Link to="/login">
-              <span id="links">LogIn</span>
-            </Link>
-          </a>
-          <a className="navbar-item" id="links" href="/contact">
-            <Link to="/signup">
-              <span id="links">Register</span>
-            </Link>
-          </a>
+        <Link to="/login" className='navbar-item' id="links">
+          <span id="links">LogIn</span>
+        </Link>
+        <Link to="/signup" className='navbar-item' id="links">
+          <span id="links">Register</span>
+        </Link>
         </div>
       </div>
     </nav>
