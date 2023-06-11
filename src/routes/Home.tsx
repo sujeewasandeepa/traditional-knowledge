@@ -29,12 +29,12 @@ export default function Home () {
             <img src={homeImage} className="is-centered home-image"/>
           </figure>
 
-          <div>
+          <div className="mt-5">
            {infos?.map((info) => (
            <div key={info.info_id}>
-            <h2>{info.title}</h2>
+            <h2 className="title is-3">{info.title}</h2>
             <p>{info.description}</p>
-            <p>Author: {info.author_id}</p>
+            <p className="is-italic">Author: {info.author_id}</p>
             <p>Tags: {info.tags}</p>
             <hr />
            </div>
